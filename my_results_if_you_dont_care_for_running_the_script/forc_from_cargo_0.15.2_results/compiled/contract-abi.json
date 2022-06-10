@@ -1,0 +1,25 @@
+[
+  {
+    "type": "function",
+    "inputs": [],
+    "name": "test_function",
+    "outputs": [
+      {
+        "name": "",
+        "type": "enum SomeEnum",
+        "components": [
+          {
+            "name": "v1",
+            "type": "b256",
+            "components": null
+          },
+          {
+            "name": "v2",
+            "type": "u32",
+            "components": null
+          }
+        ]
+      }
+    ]
+  }
+]
